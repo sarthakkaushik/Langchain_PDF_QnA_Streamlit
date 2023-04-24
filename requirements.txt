@@ -1,0 +1,11 @@
+langchain
+openapi
+pillow
+tiktoken
+unstructured
+unstructured[local-inference]
+detectron2 @ git+https://github.com/facebookresearch/detectron2.git@e2ce8dc#egg=detectron2
+poppler-utils
+openai
+pinecone-client
+faiss-cpu

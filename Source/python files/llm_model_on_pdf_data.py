@@ -19,7 +19,7 @@ Original file is located at
 !pip install pinecone-client -q
 !pip install faiss-cpu
 
-import os
+pip install unstructured[local-inference] -q
 # api_keys = dotenv.dotenv_values()
 os.environ["OPENAI_API_KEY"] ="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"
 
